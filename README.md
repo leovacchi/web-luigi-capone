@@ -1,5 +1,5 @@
 # web-luigi-capone
-He creado esta web para una pizzeria
+He creado esta web para una pizzeria, 
 podes ver la web: https://leovacchi.github.io/web-luigi-capone/
 
 Título:
@@ -16,7 +16,7 @@ Horarios y Contacto:
 Detalles de horarios y contacto se extraen dinámicamente, proporcionando información actualizada directamente desde la base de datos del local.
 
 Integración con Pedidos Ya:
-El botón de llamada directa se implementa utilizando una función simple para conectar con nuestro personal de atención al cliente. Además, hemos integrado la plataforma de Pedidos Ya para pedidos en línea y entregas a domicilio.
+El botón de llamada directa se implementa utilizando una función simple para conectar la plataforma de Pedidos Ya para pedidos en línea y entregas a domicilio.
 
 
 Cómo Contribuir:
