@@ -1,11 +1,10 @@
 # web-luigi-capone
+He creado esta web para una pizzeria
 podes ver la web: https://leovacchi.github.io/web-luigi-capone/
 
 Título:
 
 "Pizzería: Luigi Capone"
-
-Descripción:
 
 Pizzería Luigi Capone presenta una experiencia en línea simple.
 Características Técnicas:
