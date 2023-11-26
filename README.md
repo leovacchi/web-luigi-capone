@@ -31,10 +31,6 @@ Abre una solicitud de extracción.
 Instrucciones de Uso:
 
 Clona el repositorio
-Navega al directorio del proyecto (cd PizzeriaDelizia).
-Abre el menú en PDF (menu.pdf) para explorar nuestras deliciosas opciones.
-Haz clic en el botón de llamada directa para realizar tu pedido o encuentra nuestra pizzería en Pedidos Ya para pedidos en línea.
-¡Gracias por elegir Pizzería Delizia!
-
+Navega al directorio del proyecto.
 
 
